@@ -11,7 +11,7 @@ En cada README.md tienes un enlace a CodeWars donde encontrarás muchísimas sol
 
 ## CenturyFromYear
 
-[EJERCICIO 1](CenturyFromYear)
+[EJERCICIO 1](01CenturyFromYear)
 
 El primer siglo abarca desde el año 1 hasta el año 100. e
 
@@ -22,7 +22,7 @@ Dado un año, devuelve el siglo al que pertenece.
 
 ## CountByX
 
-[EJERCICIO 2](CountByX)
+[EJERCICIO 2](02CountByX)
 
 Crea una función con dos argumentos que devuelva un array de los primeros n múltiplos de x.
 
@@ -34,7 +34,7 @@ Devuelve los resultados como un array o lista.
 
 ## NeedleInTheHaystack
 
-[EJERCICIO 3](NeedleInTheHaystack)
+[EJERCICIO 3](03NeedleInTheHaystack)
 
 Escribe una función findNeedle() que tome un array lleno de basura pero que contenga una "aguja".
 
@@ -46,14 +46,15 @@ Después de que tu función encuentre la aguja, debería devolver un mensaje (co
 
 ## SumOfPositives
 
-[EJERCICIO 4](SumOfPositives)
+[EJERCICIO 4](04SumOfPositives)
 
 Escribir una función que, obteniendo un array de números, devuelva la suma de todos los números positivos.
 
 
+
 ## SumWithoutLowestAndHighest
 
-[EJERCICIO 5](SumWithoutLowestAndHighest)
+[EJERCICIO 5](05SumWithoutLowestAndHighest)
 
 Suma todos los números de un array dado (o lista), excepto el número más alto y el número más bajo (por valor, no por índice).
 
@@ -63,7 +64,7 @@ El número más alto o más bajo respectivamente es un único elemento en cada e
 
 ## TotalAmountOfPoints
 
-[EJERCICIO 6](TotalAmountOfPoints)
+[EJERCICIO 6](06TotalAmountOfPoints)
 
 Los resultados de los partidos de nuestro equipo se registran en una colección de strings.
 
@@ -73,3 +74,11 @@ Donde X es el puntaje de nuestro equipo e Y es el puntaje del equipo contrario.
 
 Necesitamos escribir una función que tome esta colección y devuelva el número de puntos que nuestro equipo (x) obtuvo en el campeonato según las reglas mencionadas anteriormente.
 
+
+
+## TotalAmountOfPoints
+
+[EJERCICIO 7](07SumMixedArray)
+
+Dado un Array de Integers como strings y numeros, devuelve la suma de los valores del Array como si todos fueran numeros.
+El retorno debe ser un numero.
