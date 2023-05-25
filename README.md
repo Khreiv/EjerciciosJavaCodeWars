@@ -76,9 +76,19 @@ Necesitamos escribir una función que tome esta colección y devuelva el número
 
 
 
-## TotalAmountOfPoints
+## SumMixedArray
 
 [EJERCICIO 7](07SumMixedArray)
 
 Dado un Array de Integers como strings y numeros, devuelve la suma de los valores del Array como si todos fueran numeros.
 El retorno debe ser un numero.
+
+
+
+## TrafficLights
+
+[EJERCICIO 8](08TrafficLights)
+
+Necesitas una función que maneje cada cambio de verde a amarillo, luego a rojo, y luego nuevamente a verde.
+
+Completa la función que recibe una cadena de texto como argumento que representa el estado actual del semáforo, y devuelve una cadena de texto que representa el estado al que el semáforo debe cambiar.
