@@ -92,3 +92,13 @@ El retorno debe ser un numero.
 Necesitas una función que maneje cada cambio de verde a amarillo, luego a rojo, y luego nuevamente a verde.
 
 Completa la función que recibe una cadena de texto como argumento que representa el estado actual del semáforo, y devuelve una cadena de texto que representa el estado al que el semáforo debe cambiar.
+
+
+## CountSheeps
+
+[EJERCICIO 9](09CountSheeps)
+
+Dado un número entero no negativo, por ejemplo, 3, devuelve una cadena con un murmullo:
+
+"1 sheep...2 sheep...3 sheep..."
+
