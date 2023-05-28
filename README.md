@@ -102,3 +102,11 @@ Dado un número entero no negativo, por ejemplo, 3, devuelve una cadena con un m
 
 "1 sheep...2 sheep...3 sheep..."
 
+
+## HowGoodAreYou
+
+[EJERCICIO 10](10HowGoodAreYou)
+
+Recibes un arreglo con las calificaciones de tus compañeros de clase.
+
+¡Ahora calcula el promedio y compara tu calificación!
